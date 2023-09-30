@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Master student in Artificial Intelligence at Nanyang Technological University, Singapore.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** manifold learning, geometric learning, human model
+- **AI for Science:** antibody discovery, drug discovery, earth science
 
 ## News
 
