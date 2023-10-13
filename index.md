@@ -16,7 +16,7 @@ I am also interested in the following topics:
 
 ## News
 
-- **[Oct. 2023]** Our paper about predicting SARS-CoV-2 neutralization is accepted to IEEE BIBM 2023. [Link Here](https://drive.google.com/file/d/1pndWcv8CXU9Q6WttFJ1eMB5aAL7KpJSe/view?usp=drive_link)
+- **[Oct. 2023]** Our paper about predicting SARS-CoV-2 neutralization is accepted to IEEE BIBM 2023. [Link Here.](https://drive.google.com/file/d/1pndWcv8CXU9Q6WttFJ1eMB5aAL7KpJSe/view?usp=drive_link) Final version coming soon.
 
 <!-- {% include_relative _includes/publications.md %} -->
 
