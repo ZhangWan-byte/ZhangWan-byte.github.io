@@ -4,10 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Master student in Artificial Intelligence at Nanyang Technological University, Singapore.
+I am currently a master's student studying Artificial Intelligence at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, supervised by Prof. [Kwoh, Chee Keong](https://personal.ntu.edu.sg/asckkwoh/). Previously, I received my B.Sc. from the University of Birmingham, UK and B.Eng. from the Harbin Institute of Technology, China in 2022. 
 
 ## Research Interests
 
+My current academic interests lie in revealing the structure of data at different levels to achieve trustworthiness and learning from multi-source data.
+
+I am also interested in the following topics:
 - **Machine Learning:** manifold learning, geometric deep learning, human model
 - **AI for Science:** antibody discovery, drug discovery, earth science
 
