@@ -21,3 +21,6 @@ I am also interested in the following topics:
 <!-- {% include_relative _includes/publications.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
+
+
+<a href="https://info.flagcounter.com/gqJ4"><img src="https://s01.flagcounter.com/map/gqJ4/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
