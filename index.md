@@ -16,7 +16,7 @@ I am also interested in the following topics:
 
 ## News
 
-- **[Oct. 2023]** Our paper on SARS-CoV-2 neutralization prediction is accepted to IEEE BIBM 2023 (acceptance rate 19.5%). [Link Here.](https://drive.google.com/file/d/1pndWcv8CXU9Q6WttFJ1eMB5aAL7KpJSe/view?usp=drive_link) Final version coming soon.
+- **[Oct. 2023]** Our paper on SARS-CoV-2 neutralization prediction is accepted to IEEE BIBM 2023 (acceptance rate 19.5%). [Link Here.](https://drive.google.com/file/d/1ZCxwL7cvep_QiWgrmTdGbTPy0-MpTGEB/view?usp=share_link) Final version coming soon.
 
 <!-- {% include_relative _includes/publications.md %} -->
 
