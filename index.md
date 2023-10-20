@@ -8,10 +8,10 @@ I am currently a master's student studying Artificial Intelligence at [Nanyang T
 
 ## Research Interests
 
-My current interest lies in unveiling the structure of data to achieve trustworthy multi-source learning.
+My current interest lies in unveiling the structure of data to achieve trustworthy multi-source learning. Exploring different levels of the structure of data provides a unified perspective on various machine learning problems. 
 
 I am also interested in the following topics:
-- **Machine Learning:** geometric deep learning, human model
+- **Machine Learning:** geometric deep learning, human models
 - **AI for Science:** antibody discovery, drug discovery, earth science
 
 ## News
