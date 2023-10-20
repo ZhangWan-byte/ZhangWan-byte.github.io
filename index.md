@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a master's student studying Artificial Intelligence at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, supervised by Prof. [Kwoh, Chee Keong](https://personal.ntu.edu.sg/asckkwoh/). Previously, I received my B.Sc. from the University of Birmingham, UK, and B.Eng. from the Harbin Institute of Technology, China, in 2022. 
+My name is Zhang, surname Wan. I am currently a master's student studying Artificial Intelligence at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, supervised by Prof. [Kwoh, Chee Keong](https://personal.ntu.edu.sg/asckkwoh/). Previously, I received my B.Sc. from the University of Birmingham, UK, and B.Eng. from the Harbin Institute of Technology, China, in 2022. 
 
 ## Research Interests
 
