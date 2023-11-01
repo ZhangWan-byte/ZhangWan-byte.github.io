@@ -8,15 +8,17 @@ My name is Zhang, surname Wan. I am currently a master's student studying Artifi
 
 ## Research Interests
 
-My current interest lies in unveiling the structure of data to achieve trustworthy multi-source learning. Exploring different levels of the structure of data provides a unified perspective on various machine learning problems. 
+My current interest lies in unveiling the structure of data on top of manifold assumption. Exploring different levels of the structure of data provides a scaled viewpoint on multiple machine learning paradigms, such as multi-modal/-view learning, transfer/few-shot learning, domain adaptation, out-of-distribution, human-in-the-loop etc. Currently, I am committed to achieving a unified perspective on learning from multiple data sources through lens of geometry and topology.
 
 I am also interested in the following topics:
-- **Machine Learning:** geometric deep learning, human models
+- **Machine Learning:** geometric deep learning, human-in-the-loop
 - **AI for Science:** antibody discovery, drug discovery, earth science
+
+Exploring more than exploiting as an early-stage researcher. Recent trending topics are also interesting to me. Feel free to contact for any discussion or collaboration!
 
 ## News
 
-- **[Oct. 2023]** Our paper on SARS-CoV-2 neutralization prediction is accepted to IEEE BIBM 2023 (acceptance rate 19.5%). [Link Here.](https://drive.google.com/file/d/1jJ6mfG-fYiwRWKL3dHhe3_PUEHH1kTcw/view?usp=sharing) Final version coming soon.
+- **[Oct. 2023]** Our paper on SARS-CoV-2 neutralization prediction is accepted to IEEE BIBM 2023 (acceptance rate 19.5%). [Link Here](https://drive.google.com/file/d/1GWBEEtS0DANLVAFDPVpuBW3-PshygACT/view?usp=sharing) Final version coming soon.
 
 <!-- {% include_relative _includes/publications.md %} -->
 
