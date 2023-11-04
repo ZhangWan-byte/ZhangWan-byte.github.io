@@ -14,7 +14,7 @@ I am also interested in the following topics:
 - **Machine Learning:** geometric deep learning, human-in-the-loop
 - **AI for Science:** antibody discovery, drug discovery, earth science
 
-Exploring more than exploiting as an early-stage researcher. Recent trending topics are also interesting to me. Feel free to contact for any discussion or collaboration!
+Exploring more than exploiting as an early-stage researcher. Recent trending topics are also interesting to me. Feel free to contact for any discussion!
 
 ## News
 
