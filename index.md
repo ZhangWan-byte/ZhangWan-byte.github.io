@@ -26,3 +26,5 @@ Exploring more than exploiting as an early-stage researcher. Recent trending top
 
 
 <a href="https://info.flagcounter.com/g6Vp"><img src="https://s01.flagcounter.com/count2/g6Vp/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Free counters!" border="0"></a>
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5f0l9k76xav&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
