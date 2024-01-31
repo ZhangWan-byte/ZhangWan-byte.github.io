@@ -18,7 +18,7 @@ Exploring more than exploiting as an early-stage researcher. Recent trending top
 
 ## News
 
-- **[Oct. 2023]** Our paper on SARS-CoV-2 neutralization prediction is accepted to IEEE BIBM 2023 (acceptance rate 19.5%). [Link Here](https://drive.google.com/file/d/1GWBEEtS0DANLVAFDPVpuBW3-PshygACT/view?usp=sharing).
+- **[Oct. 2023]** Our paper on SARS-CoV-2 neutralization prediction is accepted to IEEE BIBM 2023 (acceptance rate 19.5%). [Link Here](https://ieeexplore.ieee.org/abstract/document/10386059/).
 
 ## Mottos
 
