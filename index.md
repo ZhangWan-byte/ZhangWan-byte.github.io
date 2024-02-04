@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-My name is Zhang, surname Wan. I am an incoming Ph.D. student at the [University of Manchester](https://www.manchester.ac.uk/), fortunately supervised by [Dr. Tingting Mu](https://personalpages.manchester.ac.uk/staff/tingting.mu/Site/About_Me.html) and [Prof. Samuel Kaski](https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en&oi=ao). Previously, I was a master's student studying Artificial Intelligence at the [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, supervised by [Prof. Chee-Keong Kwoh](https://personal.ntu.edu.sg/asckkwoh/). I received my B.Sc. from the University of Birmingham, UK, and B.Eng. from the Harbin Institute of Technology, China, in 2022. 
+My name is Zhang, surname Wan. I am an incoming Ph.D. student at the [University of Manchester](https://www.manchester.ac.uk/), UK, fortunately supervised by [Dr. Tingting Mu](https://personalpages.manchester.ac.uk/staff/tingting.mu/Site/About_Me.html) and [Prof. Samuel Kaski](https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en&oi=ao). Previously, I was a master's student studying Artificial Intelligence at the [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, supervised by [Prof. Chee-Keong Kwoh](https://personal.ntu.edu.sg/asckkwoh/). I received my B.Sc. from the University of Birmingham, UK, and B.Eng. from the Harbin Institute of Technology, China, in 2022. 
 
 ## Research Interests
 
