@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-My name is Zhang, surname Wan. I am an incoming Ph.D. student at the [University of Manchester](https://www.manchester.ac.uk/), fortunately supervised by [Dr. Tingting Mu](https://personalpages.manchester.ac.uk/staff/tingting.mu/Site/About_Me.html) and [Prof. Samuel Kaski](https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en&oi=ao). Currently, I am a master's student studying Artificial Intelligence at the [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, supervised by [Prof. Kwoh, Chee Keong](https://personal.ntu.edu.sg/asckkwoh/). Previously, I received my B.Sc. from the University of Birmingham, UK, and B.Eng. from the Harbin Institute of Technology, China, in 2022. 
+My name is Zhang, surname Wan. I am an incoming Ph.D. student at the [University of Manchester](https://www.manchester.ac.uk/), fortunately supervised by [Dr. Tingting Mu](https://personalpages.manchester.ac.uk/staff/tingting.mu/Site/About_Me.html) and [Prof. Samuel Kaski](https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en&oi=ao). Previously, I am a master's student studying Artificial Intelligence at the [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, supervised by [Prof. Kwoh, Chee Keong](https://personal.ntu.edu.sg/asckkwoh/). I received my B.Sc. from the University of Birmingham, UK, and B.Eng. from the Harbin Institute of Technology, China, in 2022. 
 
 ## Research Interests
 
@@ -18,7 +18,8 @@ Exploring more than exploiting as an early-stage researcher. Recent trending top
 
 ## News
 
-- **[Oct. 2023]** Our paper on SARS-CoV-2 neutralization prediction is accepted to IEEE BIBM 2023 (acceptance rate 19.5%). [Link Here](https://ieeexplore.ieee.org/abstract/document/10386059/).
+- **[Jan 2024]** Received my Master degree from NTU! Thanks to all peers and seniors met throughout the journey!
+- **[Oct 2023]** Our paper on SARS-CoV-2 neutralization prediction is accepted to IEEE BIBM 2023 (acceptance rate 19.5%). [Link Here](https://ieeexplore.ieee.org/abstract/document/10386059/).
 
 ## Mottos
 
