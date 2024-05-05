@@ -23,7 +23,7 @@ Exploring more than exploiting as an early-stage researcher. Recent trending top
 
 ## Miscellaneous
 
-- _Wir müssen wissen. wir werden wissen._ (David Hilbert)
+- _Wir müssen wissen. Wir werden wissen._ (David Hilbert)
 - _Of all things the measure is man, of the things that are, that they are, and of things that are not, that they are not._ (Protagoras)
 
 <!-- {% include_relative _includes/publications.md %} -->
