@@ -25,7 +25,7 @@ Exploring more than exploiting as an early-stage researcher. Recent trending top
 
 - _Wir müssen wissen. Wir werden wissen._ (David Hilbert)
 - _Of all things the measure is man, of the things that are, that they are, and of things that are not, that they are not._ (Protagoras)
-- _A mathematician is a device for turning coffee into theorems._ (Alfréd Rényi)
+- _A mathematician is a machine for turning coffee into theorems._ (Alfréd Rényi)
 - _I turn coffee into nothing. I'm not a mathematician :-)_ (Zhang Wan)
 
 <!-- {% include_relative _includes/publications.md %} -->
