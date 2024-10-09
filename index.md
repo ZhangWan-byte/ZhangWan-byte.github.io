@@ -16,7 +16,7 @@ I am also interested in the following topics:
 - **Machine Learning:** geometric deep learning, dimensionality reduction, visualisation, human-in-the-loop, reinforcement learning, etc.
 - **AI for Science:** drug discovery, earth science, bioinformatics, etc.
 
-I am also interested in several branches of (applied) math, e.g., Riemannian geometry, optimal transport, graph theory, functional analysis, etc. Exploring more than exploiting as an early-stage researcher. Recent trending topics are also interesting to me. Feel free to contact me for any discussion!
+Several subfields of (applied) math play significant roles in my research or personal interests, e.g., optimal transport, (random) graph theory, Riemannian geometry, functional analysis, etc. Exploring more than exploiting as an early-stage researcher. Recent trending topics are also interesting to me. Feel free to contact me for any discussion!
 
 ## News
 
