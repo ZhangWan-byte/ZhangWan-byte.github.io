@@ -4,22 +4,23 @@ layout: homepage
 
 ## About Me
 
-My name is Zhang, surname Wan. I am a Ph.D. student at the [University of Manchester](https://www.manchester.ac.uk/), UK, fortunately supervised by [Dr. Tingting Mu](https://personalpages.manchester.ac.uk/staff/tingting.mu/Site/About_Me.html) and [Prof. Samuel Kaski](https://kaski-lab.com/). Previously, I was a master's student studying Artificial Intelligence at the [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, supervised by [Prof. Chee-Keong Kwoh](https://personal.ntu.edu.sg/asckkwoh/). I received my B.Sc. from the University of Birmingham, UK, and B.Eng. from the Harbin Institute of Technology, China, in 2022. 
+My name is Zhang, surname Wan. I am a PhD student at the [University of Manchester](https://www.manchester.ac.uk/), UK, fortunately supervised by [Dr. Tingting Mu](https://personalpages.manchester.ac.uk/staff/tingting.mu/Site/About_Me.html) and [Prof. Samuel Kaski](https://kaski-lab.com/). Previously, I was a master's student studying Artificial Intelligence at the [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, supervised by [Prof. Chee-Keong Kwoh](https://personal.ntu.edu.sg/asckkwoh/). I received my B.Sc. from the University of Birmingham, UK, and B.Eng. from the Harbin Institute of Technology, China, in 2022. 
 
 ## Research Interests
 
-My current interest lies in unveiling the structure of data on top of manifold assumption. Exploring different levels of the structure of data provides a scaled viewpoint on multiple machine learning paradigms, such as multi-modal/-view learning, transfer/few-shot learning, domain adaptation, out-of-distribution, human-in-the-loop etc. Currently, I am committed to achieving a unified perspective on learning from multiple data sources through lens of geometry and topology.
+My current interest lies in exploring **distribution shifts** across various scales, for which a narrow meaning draws on dealing with the broken i.i.d. assumption whose synonyms include extrapolation, domain adaptation, etc. In a broader sense, I am interested in situations where classic assumptions are either invalid or irrelevant, due to *generalised/specific cases* (e.g. domain-specific assumptions) and *external effects* (e.g. varying observation or environment). These scenarios often necessitate additional assumptions to impose extra structures, offering insights on how to model things in change and constancy.
+
+<!-- My current interest lies in unveiling the structure of data on top of manifold assumptions. Exploring different levels of the structure of data provides a scaled viewpoint on multiple machine learning paradigms, such as multi-modal/-view learning, transfer/few-shot learning, domain adaptation, out-of-distribution, human-in-the-loop etc. Currently, I am committed to achieving a unified perspective on learning from multiple data sources through the lens of geometry and topology. -->
 
 I am also interested in the following topics:
-- **Machine Learning:** geometric deep learning, dimensionality reduction, human-in-the-loop, reinforcement learning, etc.
+- **Machine Learning:** geometric deep learning, dimensionality reduction, visualisation, human-in-the-loop, reinforcement learning, etc.
 - **AI for Science:** drug discovery, earth science, bioinformatics, etc.
 
-Exploring more than exploiting as an early-stage researcher. Recent trending topics are also interesting to me. Feel free to contact for any discussion!
+I am also interested in several branches of (applied) math, e.g., Riemannian geometry, optimal transport, graph theory, functional analysis, etc. Exploring more than exploiting as an early-stage researcher. Recent trending topics are also interesting to me. Feel free to contact me for any discussion!
 
 ## News
 
-- **[Jan 2024]** Received my Master degree in Artificial Intelligence from NTU. Thanks to all peers and seniors met throughout the journey!
-- **[Oct 2023]** Our paper on SARS-CoV-2 neutralization prediction is accepted to IEEE BIBM 2023. [Link Here](https://ieeexplore.ieee.org/abstract/document/10386059/).
+- **[Jan 2024]** Received my Master's degree in Artificial Intelligence from NTU. Thanks to all the peers and seniors throughout the journey.
 
 ## Miscellaneous
 
