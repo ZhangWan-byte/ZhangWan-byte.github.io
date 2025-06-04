@@ -8,15 +8,13 @@ My name is Zhang, surname Wan. I am a PhD student at the [University of Manchest
 
 ## Research Interests
 
-My current interest lies in exploring **distribution shifts** across various scales, for which a narrow meaning draws on dealing with the broken i.i.d. assumption whose synonyms include extrapolation, domain adaptation, etc. In a broader sense, I am interested in situations where classic assumptions are either invalid or irrelevant, due to *generalised/specific cases* (e.g. domain-specific assumptions) and *external effects* (e.g. varying observation or environment). These scenarios often necessitate additional assumptions to impose extra structures, offering insights on how to model things in change and constancy.
-
-<!-- My current interest lies in unveiling the structure of data on top of manifold assumptions. Exploring different levels of the structure of data provides a scaled viewpoint on multiple machine learning paradigms, such as multi-modal/-view learning, transfer/few-shot learning, domain adaptation, out-of-distribution, human-in-the-loop etc. Currently, I am committed to achieving a unified perspective on learning from multiple data sources through the lens of geometry and topology. -->
+My current interest lies in exploring **distribution shifts** across various scales, for which a narrow meaning draws on dealing with the broken i.i.d. assumption, whose synonyms include extrapolation, domain adaptation, etc. In a broader sense, I am interested in situations where classic assumptions are either invalid or irrelevant, due to *generalised/specific cases* (e.g. domain-specific assumptions) and *external effects* (e.g. varying observation or environment). These scenarios often necessitate additional assumptions to impose extra structures, offering insights on how to model things in change and constancy.
 
 I am also interested in the following topics:
 - **Machine Learning:** geometric deep learning, dimensionality reduction, visualisation, human-in-the-loop, reinforcement learning, etc.
 - **AI for Science:** drug discovery, earth science, bioinformatics, etc.
 
-Several subfields of (applied) math play significant roles in my research or personal interests, e.g., optimal transport, (random) graph theory, Riemannian geometry, functional analysis, etc. Exploring more than exploiting as an early-stage researcher. Recent trending topics are also interesting to me. Feel free to contact me for any discussion!
+Several subfields of (applied) math play significant roles in my research or personal interests, e.g., optimal transport, random graph theory, graphon theory, stochastic process, Riemannian geometry, functional analysis, etc. Exploring more than exploiting as an early-stage researcher. Recent trending topics are also interesting. Feel free to contact me for any discussion!
 
 ## News
 
