@@ -8,13 +8,13 @@ My name is Zhang, surname Wan. I am a PhD student at the [University of Manchest
 
 ## Research Interests
 
-My current interest lies in exploring **distribution shifts** across various scales, for which a narrow meaning draws on dealing with the broken i.i.d. assumption, whose synonyms include extrapolation, domain adaptation, etc. In a broader sense, I am interested in situations where classic assumptions are either invalid or irrelevant, due to *generalised/specific cases* (e.g. domain-specific assumptions) and *external effects* (e.g. varying observation or environment). These scenarios often necessitate additional assumptions to impose extra structures, offering insights on how to model things in change and constancy.
+My current interest lies in exploring **distribution shifts** across various scales, for which a narrow meaning draws on dealing with the broken i.i.d. assumption, whose synonyms include extrapolation, domain adaptation, data inter-dependence, etc. In a broader sense, I am interested in situations where classic assumptions are either invalid or irrelevant, due to *generalised/specific cases* (e.g. domain-specific assumptions) and *external effects* (e.g. varying observation or environment). These scenarios often necessitate additional assumptions to impose extra structures, offering insights on how to model things in change and constancy.
 
 I am also interested in the following topics:
 - **Machine Learning:** geometric deep learning, dimensionality reduction, visualisation, human-in-the-loop, reinforcement learning, etc.
 - **AI for Science:** drug discovery, earth science, bioinformatics, etc.
 
-Several subfields of (applied) math play significant roles in my research or personal interests, e.g., optimal transport, random graph theory, graphon theory, stochastic process, Riemannian geometry, functional analysis, etc. Exploring more than exploiting as an early-stage researcher. Recent trending topics are also interesting. Feel free to contact me for any discussion!
+Several subfields of (applied) math play significant roles in my research or personal interests, e.g., random graph model, graphon theory, optimal transport, stochastic process, Riemannian geometry, functional analysis, etc. Exploring more than exploiting as an early-stage researcher. Recent trending topics are also interesting. Feel free to contact me for any discussion!
 
 ## News
 
@@ -26,7 +26,6 @@ Several subfields of (applied) math play significant roles in my research or per
 - _Of all things the measure is man, of the things that are, that they are, and of things that are not, that they are not._ (Protagoras)
 - _A mathematician is a machine for turning coffee into theorems._ (Alfréd Rényi)
 - _I turn coffee into nothing. I'm not a mathematician :-)_ (Zhang Wan)
-- _A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects._ (Robert A. Heinlein, _Time Enough for Love._, 1973.)
 
 <!-- {% include_relative _includes/publications.md %} -->
 
